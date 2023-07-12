@@ -33,3 +33,6 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 # NIT-PATNA-CLIENT
+
+
+"**IssueConnect**" is a web-based complaint management system developed for NIT Patna. The project aims to address various issues faced by students and staff by providing a user-friendly platform for submitting, tracking, and resolving complaints. With a focus on streamlining the complaint management process, IssueConnect centralizes information, enables efficient communication between users and administrators, and facilitates quick access to complaint records. By implementing this system, NIT Patna aims to improve issue resolution efficiency, enhance administrative decision-making, and provide a comprehensive platform for managing complaints campus-wide. IssueConnect offers a tailored solution to meet NIT Patna's specific complaint management needs and promote a more effective and efficient campus environment.
